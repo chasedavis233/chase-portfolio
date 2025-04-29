@@ -155,11 +155,11 @@ skills: [
   projects: [
     {
       title: "Website on Lua",
-      description: 'A full-featured e-commerce platform with product catalog, cart functionality, and payment integration.',
-      image: 'https://images.pexels.com/photos/6169/woman-hand-smartphone-laptop.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      tags: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      link: 'https://example-ecommerce.com',
-      github: 'https://github.com/Bloop1542/CS354-LW-Robins/tree/main',
+      description: 'We built a Lua-based website and encryption tools demonstrating ciphers, string manipulation, and scripting techniques, using Luas lightweight, dynamic design.',
+      image: 'https://i.imgur.com/CRUzMEB.png',
+      tags: ['Lua', 'HTML/CSS', 'VSCode', 'Cryptography'],
+      link: 'https://chasedavis233.github.io/LuaWebsite/index.html',
+      github: 'https://github.com/chasedavis233/LuaWebsite',
     },
     {
       title: "Games!",
