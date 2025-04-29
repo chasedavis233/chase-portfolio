@@ -179,8 +179,8 @@ skills: [
       title: "Study App",
       description: 'A study app we created that helps you study for anything you want.',
       image: 'https://i.imgur.com/2tNVjio.jpeg',
-      tags: ['React', 'Node.js', 'Chart.js', 'Social APIs'],
-      github: 'https://github.com/chasedavis233',
+      tags: ['Java', 'ScrumBoard', 'VSCode', 'Github'],
+      github: 'https://github.com/chasedavis233/StudyApp',
     },
   ],
   education: [
