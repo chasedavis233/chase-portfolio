@@ -75,17 +75,17 @@ const Projects: React.FC = () => {
                   ))}
                 </div>
                 <div className="flex justify-between">
-                  {project.link && (
-                    <a
-                      href={project.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center text-sm text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-300 transition-colors duration-300"
-                    >
-                      <ExternalLink size={16} className="mr-1" />
-                      Live Demo
-                    </a>
-                  )}
+                {project.link && (
+                  <a
+                    href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-4 py-2 bg-primary-600 text-white rounded-lg text-sm hover:bg-primary-700 transition"
+                  >
+                    Live Demo
+                  </a>
+                )}
+
                   {project.github && (
                     <a
                       href={project.github}

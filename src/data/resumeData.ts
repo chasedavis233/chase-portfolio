@@ -166,7 +166,6 @@ skills: [
       description: 'Some Games I made. Still being updated and added to.',
       image: 'https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       tags: ['Python', 'Pygame', 'VsCode'],
-      link: 'https://task-app-demo.com',
       github: 'https://github.com/chasedavis233/MyGames',
     },
     {
@@ -174,7 +173,6 @@ skills: [
       description: 'Developed simulators for DFA, NFA, and Turing Machines to model formal languages and automate the parsing and execution of encoded machine inputs.',
       image: 'https://i.imgur.com/SgxhVkU.png',
       tags: ['Java', 'VSCode', 'Automata Theory'],
-      link: 'https://weather-dash.demo.com',
       github: 'https://github.com/chasedavis233/CS361-Sate-Machines/tree/main',
     },
     {
@@ -182,7 +180,6 @@ skills: [
       description: 'A study app we created that helps you study for anything you want.',
       image: 'https://i.imgur.com/2tNVjio.jpeg',
       tags: ['React', 'Node.js', 'Chart.js', 'Social APIs'],
-      link: 'https://social-analytics.demo.com',
       github: 'https://github.com/chasedavis233',
     },
   ],
