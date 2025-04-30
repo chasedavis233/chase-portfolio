@@ -163,8 +163,8 @@ skills: [
     },
     {
       title: "Games!",
-      description: 'Some Games I made. Still being updated and added to.',
-      image: 'https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      description: 'Some arcade games I made. This folder is still being updated and added to.',
+      image: 'https://i.imgur.com/RRIxpRv.jpeg',
       tags: ['Python', 'Pygame', 'VsCode'],
       github: 'https://github.com/chasedavis233/MyGames',
     },
