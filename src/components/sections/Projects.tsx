@@ -75,7 +75,7 @@ const Projects: React.FC = () => {
                   ))}
                 </div>
                 <div className="flex justify-between">
-                {index === 0 && project.link && (
+                {project.link && (
                   <a
                     href={project.link}
                     target="_blank"
