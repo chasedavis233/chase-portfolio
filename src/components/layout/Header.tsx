@@ -49,13 +49,14 @@ const Header: React.FC<HeaderProps> = ({ navLinks }) => {
       <div className="container mx-auto px-6 flex justify-between items-center">
 
        
-         <a
-         href="/ChaseDavisResume.pdf"
-         download="ChaseDavisResume.pdf"
-         className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:underline"
-       >
-         Download Resume
-       </a>
+        <a
+          href="/ChaseDavisResume.pdf"
+          download="ChaseDavisResume.pdf"
+          className="px-4 py-2 text-sm md:text-base font-semibold text-white bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-400 rounded-md transition-all duration-300"
+        >
+          Download Resume
+        </a>
+
        
   
 
