@@ -50,12 +50,13 @@ const Header: React.FC<HeaderProps> = ({ navLinks }) => {
 
        
       <a
-  href="/Blue Team Assignment.pdf"
-  download="Blue Team Assignment.pdf"
-  className="text-base px-4 py-2 font-semibold text-white bg-primary-600 hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 rounded-lg transition"
+  href="/chase-portfolio/ChaseDavisResume.pdf"
+  download="ChaseDavisResume.pdf"
+  className="px-4 py-2 text-sm font-semibold text-primary-600 dark:text-primary-400 hover:underline"
 >
   Download Resume
 </a>
+
 
 
 
