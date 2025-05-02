@@ -47,16 +47,18 @@ const Header: React.FC<HeaderProps> = ({ navLinks }) => {
       }`}
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
-        <motion.div 
-          className="text-2xl font-bold text-primary-700 dark:text-primary-400"
-          initial={{ opacity: 0, x: -20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.5 }}
-        >
-          <a href="/Chase's_resume.pdf" download>
-  <span className="font-bold text-xl text-primary-600">&lt;Download Resmue&gt;</span>
-</a>
-        </motion.div>
+
+       
+         <a
+         href="/ChaseDavisResume.pdf"
+         download="ChaseDavisResume.pdf"
+         className="text-sm font-semibold text-primary-600 dark:text-primary-400 hover:underline"
+       >
+         Download Resume
+       </a>
+       
+  
+
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center space-x-8">
